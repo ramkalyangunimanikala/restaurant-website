@@ -1,7 +1,8 @@
 # Restaurant Food Order Theme
 This is a Restaurant Theme Website Template, designed using html and css. 
-. Add a Star 🌟  to this 👆 Repository
+. Add a Star 🌟  to this 👆 Repository.
 
+To check the live website(https://ramkalyangunimanikala.github.io/restaurant-website/)
 
 
 ## Technologies Used
